@@ -1,1 +1,1 @@
-Online Bank With Java, Angular 2, Spring
+Online Bank using Java, Angular 2, Spring
